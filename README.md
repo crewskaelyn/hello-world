@@ -1,6 +1,6 @@
-# Hello World
-## Home Page
-### My name is Kaelyn Crews
+
+# Home Page
+## My name is Kaelyn Crews
 
 I am an Information Technology major at the University of Missouri.
 
