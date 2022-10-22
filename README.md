@@ -8,5 +8,5 @@ You can navigate my site using the links below:
 -[About Me](./about-me.md)  
 -[Hobbies](./hobbies.md)  
 -[Code Sample](./code-sample.md)  
--[Socials](./socials)
+-[Socials](./socials.md)
 
